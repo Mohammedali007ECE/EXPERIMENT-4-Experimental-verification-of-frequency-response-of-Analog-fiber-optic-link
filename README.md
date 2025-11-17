@@ -75,3 +75,4 @@ Fiber optic links can be used for transmission of digital as well as analog sign
 ## RESULT
 
 *(Summarize observations and conclusions here)*
+Thus the relationship between input and received signal from 660nm fibre optic cable wing analog link is analyzed.
